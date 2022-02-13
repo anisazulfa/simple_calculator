@@ -20,4 +20,4 @@ while True:
     if lanjut.lower()[0] == 'y':
         continue
     else: break
-print("terima kasih banyak dan sampai jumpa")
+print("thank you")
